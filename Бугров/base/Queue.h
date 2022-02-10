@@ -2,6 +2,7 @@
 #include <iostream>
 #include <locale>
 #include "MaxValues.h"
+#include "emulation.h"
 #include "Ans.h"
 template <class T>
 class Queue
